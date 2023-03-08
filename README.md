@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, we can able to track student tracking system by aadhar no. We implemented two step authentication using google firebase auth API called 'signInWithPhoneNumber'. We used firebase db for storing student and orgnaization data.
 
 ## Available Scripts
 
